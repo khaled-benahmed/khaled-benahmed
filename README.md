@@ -52,15 +52,12 @@ Sure! Here's an updated version of the "Languages and Tools" section with logos 
 
 Feel free to explore my repositories to see how I've utilized these languages and tools in various projects.
 
-## Projects
-
-Feel free to explore the projects I've been working on. You'll find a variety of applications, scripts, and experiments in different areas of software development, including web development, data science, and more.
-
 ## Contact Me
 
 If you'd like to collaborate on a project or have any questions, feel free to reach out to me. You can contact me through the following channels:
 
-- Email: [your-email@example.com](mailto:your-email@example.com)
+- Email: [your-email@example.com](khaled.benahmed.official@gmail.com
+)
 - LinkedIn: [linkedin.com/in/your-profile](https://www.linkedin.com/in/your-profile)
 - Twitter: [@yourusername](https://twitter.com/yourusername)
 
