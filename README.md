@@ -56,9 +56,7 @@ Feel free to explore my repositories to see how I've utilized these languages an
 
 If you'd like to collaborate on a project or have any questions, feel free to reach out to me. You can contact me through the following channels:
 
-- Email: khaled.benahmed.official@gmail.com
-](khaled.benahmed.official@gmail.com
-)
+- Email:[[ khaled.benahmed.official@gmail.com](khaled.benahmed.official@gmail.com)]
 - LinkedIn: [[linkedin.com/in/your-profile](https://www.linkedin.com/in/khaled-ben-ahmed/)]
 
 
