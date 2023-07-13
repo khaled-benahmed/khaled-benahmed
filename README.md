@@ -52,6 +52,18 @@ Sure! Here's an updated version of the "Languages and Tools" section with logos 
 
 Feel free to explore my repositories to see how I've utilized these languages and tools in various projects.
 
+
+### GitHub Stats
+
+![Khaled's GitHub stats](https://github-readme-stats.vercel.app/api?username=khaledbenahmed&show_icons=true&theme=dark)
+
+### Top Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khaledbenahmed&layout=compact&theme=dark)
+
+
+
+Let's connect and build amazing things together! 😄
 ## Contact Me
 
 If you'd like to collaborate on a project or have any questions, feel free to reach out to me. You can contact me through the following channels:
